@@ -93,7 +93,7 @@ const Contact = () => {
             <span className="bg-designColor text-gray-700 text-sm font-titleFont font-medium px-2 rounded-md flex items-center justify-center">
               Freelance:
             </span>
-            Abailable
+            Available
           </p>
         </div>
       </div>
